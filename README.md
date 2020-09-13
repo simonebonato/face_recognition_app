@@ -14,7 +14,7 @@ Extra: if the probability related to the prediction is lower than a certain thre
 # Folder structure
 
 ## Required libraries and downloads
-Download the program from this link:  (it may take a while) . After that unzip the FaceRec folder.
+Download the program from this link: https://unipdit-my.sharepoint.com/:u:/g/personal/simone_bonato_1_studenti_unipd_it/EYfQ9TF3GWpPkKDUfExRfP8Bw3gOPWwWzUHw3kJIKsMWwQ (it may take a while) . After that unzip the FaceRec folder.
 Once the process is over, open the FaceRec folder, find the executable with the face icon and cut it outside of the folder.
 
 ## Directories
